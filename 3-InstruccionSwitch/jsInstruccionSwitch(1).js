@@ -21,7 +21,7 @@ alert("felices fiestas");
 break;
 
 default:
-alert("");
+alert("tomas");
 
  }
 
